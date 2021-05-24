@@ -1,5 +1,6 @@
 先看下 Client 端 NacosConfigService 的核心组件：
 
+![Image text](../resource/6/nacos-config-server.png)
 
 两大核心组件：ServerHttpAgent 和 ClientWorker.
 
